@@ -1,4 +1,10 @@
-## Hi there 👋
+<div align="center">
+  <img src="Linkedin_Banner_1.png" alt="Banner" width="100%">
+
+  <h1>Hi I´m Diana 👋</h1>
+  
+  <p><b>Data Scientist | Process Engineer | Continuous Improvement Expert</b></p>
+</div>
 
 <!--
 **dmgc0920-byte/dmgc0920-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
