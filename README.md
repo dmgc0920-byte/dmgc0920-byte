@@ -3,8 +3,11 @@
 
   <h1>Hi I´m Diana 👋</h1>
   
-  <p><b>Data Scientist | Process Engineer | Continuous Improvement Expert</b></p>
-</div>
+  <p align="center">
+  <img src="https://img.shields.io/badge/Data_Scientist-Python_%26_SQL-blue?style=for-the-badge&logo=python&logoColor=white" alt="Data Science">
+  <img src="https://img.shields.io/badge/Process_Engineer-TPM_%26_Lean-orange?style=for-the-badge&logo=engineering&logoColor=white" alt="Process Engineering">
+  <img src="https://img.shields.io/badge/Continuous_Improvement-Six_Sigma-green?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Continuous Improvement">
+</p>
 
 <!--
 **dmgc0920-byte/dmgc0920-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
