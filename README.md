@@ -5,8 +5,8 @@
   
   <p align="center">
   <img src="https://img.shields.io/badge/Data_Scientist-Python_%26_SQL-blue?style=for-the-badge&logo=python&logoColor=white" alt="Data Science">
-  <img src="https://img.shields.io/badge/Process_Engineer-TPM_%26_Lean-orange?style=for-the-badge&logo=engineering&logoColor=white" alt="Process Engineering">
-  <img src="https://img.shields.io/badge/Continuous_Improvement-Six_Sigma-green?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Continuous Improvement">
+  <img src="https://img.shields.io/badge/Process_Engineer-TPM-orange?style=for-the-badge&logo=engineering&logoColor=white" alt="Process Engineering">
+  <img src="https://img.shields.io/badge/Continuous_Improvement-green?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Continuous Improvement">
 </p>
 
 <!--
