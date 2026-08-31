@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Linkedin_Banner_1.png" alt="Banner" width="100%">
+  <img src="Banner_Github.jpg" alt="Banner" width="100%">
 
   <h1>Hi I´m Diana 👋</h1>
   
